@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello worldlier!
+title: Hello, now worldlier!
 ---
 {% include JB/setup %}
 
